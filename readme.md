@@ -10,3 +10,7 @@
 ### Goal In
 
 - CoronaSDK로 스터디 진행
+
+## 라이센스
+
+MIT &copy; [ITJEONG](mailto:derbana1027@gmail.com)
